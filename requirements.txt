@@ -1,0 +1,11 @@
+# Core Data Science
+pandas
+numpy
+scikit-learn
+
+# Plotting
+matplotlib
+seaborn
+
+# Notebooks
+jupyter
