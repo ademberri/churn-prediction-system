@@ -1,11 +1,12 @@
-# Core Data Science
-pandas
-numpy
+# requirements.txt
+
+# API
+fastapi
+uvicorn[standard]
+
+# Machine Learning
 scikit-learn
+pandas
+joblib
 
-# Plotting
-matplotlib
-seaborn
-
-# Notebooks
-jupyter
+prometheus-fastapi-instrumentator

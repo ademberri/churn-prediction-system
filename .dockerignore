@@ -1,0 +1,17 @@
+# .dockerignore
+
+# Python
+venv/
+*.pyc
+__pycache__/
+
+# Notebooks
+notebooks/
+
+# System files
+.DS_Store
+
+# Local settings
+.env
+.idea/
+.vscode/
